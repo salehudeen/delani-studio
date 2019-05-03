@@ -13,9 +13,11 @@
   text-align:center;
   background-image: url(../IP3/assets/backgrounds/s_image.jpg);
   color:white;
+  height: 300px;
 }
 .what{
   text-align: center;
+  height:300px;
 }
 .design{
   float:left;
@@ -25,4 +27,27 @@
 }
 .product{
   float:right;
+}
+.portfolio-header{
+  text-align: center;
+}
+.form{
+  text-align: center;
+  background-image: url(../IP3/assets/backgrounds/c_image.jpg);
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height:400px;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+  color:white;
+}
+.social{
+  align-items: center;
+  text-align: center;
 }
