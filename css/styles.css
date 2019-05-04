@@ -8,9 +8,11 @@
 
 .about{
   text-align: center;
+  font-family:fantasy;
 }
 .services{
   text-align:center;
+  font-size: 20px;
   background-image: url(../IP3/assets/backgrounds/s_image.jpg);
   color:white;
   height: 300px;
@@ -50,4 +52,15 @@
 .social{
   align-items: center;
   text-align: center;
+}
+.name{
+  float: left;
+}
+.email{
+  float:right;
+}
+.content{
+ width:500px;
+ clear: both;
+
 }
