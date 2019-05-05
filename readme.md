@@ -15,4 +15,4 @@
 {let me know your thoughts through the email provided above,thank you!.}
 ### License
 *{this was licensed by MIT.}*
-Copyright (c) {salehudeen} **{salehudeen and delani-studio}**
+Copyright (c) {salehudeen} **{salehudeen and delani-studio.}**
