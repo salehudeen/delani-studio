@@ -23,7 +23,7 @@
 }
 .head{
   text-align:center;
-  background-image: url(../image/h_img.jpg);
+  background-image: url(../h_img.jpg);
   color:white;
   height:400px;
   background-size:cover;
@@ -36,7 +36,7 @@
 .services{
   text-align:center;
   font-size: 20px;
-  background-image: url(../image/s_image.jpg);
+  background-image: url(../s_image.jpg);
   color:white;
   height: 300px;
 }
@@ -61,7 +61,7 @@
 }
 .form{
   text-align: center;
-  background-image: url(../image/c_image.jpg);
+  background-image: url(../c_image.jpg);
   position: relative;
   display: -ms-flexbox;
   display: flex;
