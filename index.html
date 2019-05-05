@@ -133,19 +133,13 @@
     </div>
   </div>
   <div class="form">
-    <h6>CONTACT</h6>
-    <form action="">
-      <label class="name" for="name">Name.</label>
-      <input class="name" type="text" id="" name="name" placeholder="Name...">
-      <br>
-      <label class="email" for="email">Email</label>
-      <input class="email" type="text" id="" name="email" placeholder="Email...">
-      <br>
-      <label class="content" for="content-box">Content-Box</label>
-      <input class="content" type="content-box" id="" name="content-box" placeholder="content-box...">
-
-      <p id="result"></p>
-    </form>
+    <h6><u>CONTACT</u></h6>
+  <form action"api/contact.php" method="post">
+    <p>Name:<input type="text" id="name"></p>
+    <p>Email:<input type="email" id="email"></p>
+    <p><textarea name="message"></textarea></p>
+    <button id="submit">submit</button>
+  </form>
   </div>
   <div class="social">
     <img src="IP3/assets/social_icons/behance.png">
@@ -161,6 +155,7 @@
     <p>delani_studio</p>
     <p>2019</p>
   </div>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
   <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
   <script>
    $(document).ready(function(){
