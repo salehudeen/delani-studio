@@ -44,15 +44,15 @@
   text-align: center;
   height:300px;
 }
-.design{
+#design{
   float:left;
   cursor:pointer;
 }
-.dev{
+#dev{
   clear: both;
   cursor:pointer;
 }
-.product{
+#product{
   float:right;
   cursor:pointer;
 }
@@ -149,4 +149,7 @@ img{
   text-align: center;
   padding-left: 15px;
   color: white;
+}
+.design-details{
+  display:none;
 }
