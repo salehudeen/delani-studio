@@ -2,7 +2,7 @@
 #### {ITS  a website on the studio details}, {this is the latest version}
 #### By **{salehudeen saleh}**
 ## Description
-{this website entails what the studio (delani-studio)provides and all details about the studio. }
+{this website entails what the studio (delani-studio)provides and all details about the studio this is a link to the live site  https://salehudeen.github.io/delani-studio/  }
 ## Setup Requirements
 * intrenet connectivity
 * A device that can access the web. 
