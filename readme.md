@@ -14,5 +14,5 @@
 ## Support and contact details
 {let me know your thoughts through the email provided above,thank you!.}
 ### License
-*{this was licensed by MIT.}*
+*{this was licensed by MIT.here is the link to the license https://github.com/salehudeen/delani-studio/blob/master/LICENSE}*
 Copyright (c) {salehudeen} **{salehudeen and delani-studio.}**
