@@ -45,15 +45,12 @@
   height:300px;
 }
 #design{
-  float:left;
   cursor:pointer;
 }
 #dev{
-  clear: both;
   cursor:pointer;
 }
 #product{
-  float:right;
   cursor:pointer;
 }
 .portfolio-header{
@@ -158,4 +155,9 @@ img{
 }
 .dev-details{
   display:none;
+}
+.mouse{
+  cursor: pointer;
+  border-radius: 30px;
+  box-shadow: 0 0 40px green;
 }

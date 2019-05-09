@@ -15,7 +15,7 @@ $("form.api").on("submit",function(){
 
       data[name] =value;
     });
-     $.ajax({
+     $.api({
        url:url,
        type:type,
        data:data,
