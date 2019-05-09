@@ -81,7 +81,7 @@
 }
 #name{
 background: transparent;
-width:100%;
+width:80%;
 color:white;
 }
 #email{
@@ -92,8 +92,8 @@ color:white;
 #message{
   background:transparent;
   color:white;
-  height:320%;
-  width:90%
+  height:200%;
+  width:70%
 }
 
 .content{
