@@ -45,12 +45,15 @@
   height:300px;
 }
 #design{
+  float:left;
   cursor:pointer;
 }
 #dev{
+  clear: both;
   cursor:pointer;
 }
 #product{
+  float:right;
   cursor:pointer;
 }
 .portfolio-header{
@@ -76,11 +79,21 @@
   align-items: center;
   text-align: center;
 }
-.name{
-  float: left;
+#name{
+background: transparent;
+width:100%;
+color:white;
 }
-.email{
-  float:right;
+#email{
+  background:transparent;
+  width:100%;
+  color:white;
+}
+#message{
+  background:transparent;
+  color:white;
+  height:320%;
+  width:90%
 }
 
 .content{
@@ -160,4 +173,10 @@ img{
   cursor: pointer;
   border-radius: 30px;
   box-shadow: 0 0 40px green;
+}
+.submit{
+  cursor: pointer;
+  width:40%;
+  border-radius: 30px;
+  box-shadow: 0 0 10px yellow;
 }
